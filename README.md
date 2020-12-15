@@ -9,7 +9,16 @@ Install Python 3 and Jupyter:
 
 ```shell
 brew install python@3.9
+```
+
+```shell
 conda install -c conda-forge jupyterlab
+```
+
+or:
+
+```shell
+pip3 install jupyterlab
 ```
 
 ## Start the notebooks
