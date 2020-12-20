@@ -27,4 +27,10 @@ pip3 install jupyterlab
 jupyter lab
 ```
 
-Browser should open, choose a notebook among the `*.ipynb` files.
+Browser should open, choose a notebook among the `*.ipynb` files:
+
+* `HelloWorld`: say 👋!
+
+* `Fréquentation gares SNCF`: display chart(s) related to railway station visits (from French open data).
+
+* `YoutubeTranscript`: Get the transcript from a Youtube video.
